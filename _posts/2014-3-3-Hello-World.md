@@ -1,9 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: My life at Metis!
 ---
 
 ####This is just a place for me to talk about my experience at Metis.
+
+
 
 
 
