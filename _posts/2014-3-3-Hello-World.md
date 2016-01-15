@@ -7,9 +7,3 @@ title: My life at Metis!
 
 
 
-
-
-
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
