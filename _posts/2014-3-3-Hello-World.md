@@ -18,7 +18,25 @@ The [turnstile data](http://web.mta.info/developers/turnstile.html)  includes en
 
 Out first piece of analysis was to look at the average entries by day in April 2015 per station. 
 
-![alt text](/Users/shani16/Desktop/Screen Shot 2016-01-16 at 5.08.46 PM.png "Most Traveled Stations")
+![alt text](/Users/shani16/Desktop/Screen Shot 2016-01-16 at 5.08.46 PM.png "Top 10 Most Traveled Stations")
+
+We found that the top 5 stations were commuter stations and were also the stations with the most number of lines. 
+
+Next we wanted to look at each station andt the proportion of travel by weekday. We wanted to see if certain stations had more traffic on certain days vs the others. 
+
+![alt text](/Users/shani16/Desktop/Screen Shot 2016-01-16 at 5.16.59 PM.png "Top 10 Most Traveled Stations")
+
+Surprisingly, we found that the distribution of travel per station was pretty even during the week. The only exception was Wall St, where there was less traffic on Fridays and Saturdays. 
+
+We wanted to encorporate the census data into our analysis.The ideal area to recruit for WTWY Gala would rank highly in the following categories:
+Female to Male Ratio 
+* Population employed in Professional & Scientific Industry
+* Females in Labor Force
+* Population Taking Public Transit to Work
+* Households with Income > $100,000
+
+
+
 
 
 
