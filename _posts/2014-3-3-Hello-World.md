@@ -14,7 +14,7 @@ Today marks the end of week 1 and it has been quit a week so far. I knew that my
 
 Our task was to help group WTWY in their efforts to optimize their street team in collecting emails , in hopes of raising awareness of their organization and eventually maximizing participation.
 
-The([turnstile data](http://web.mta.info/developers/turnstile.html)includes entry and exit counts for each subway station, measured in four hour intervals at inconsistent times.
+The [turnstile data](http://web.mta.info/developers/turnstile.html)  includes entry and exit counts for each subway station, measured in four hour intervals at inconsistent times.
 
 
 
