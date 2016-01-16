@@ -42,7 +42,8 @@ Top travelled stations were scored based on a weighted sum of ideal population p
 
 The top stations to target are on the left side of the chart below with the top stations to target on the bottom left. 
 
-![alt text]({{ site.url }}downloads/Screen Shot 2016-01-16 at 5.24.51 PM.png  "Top 10 Most Traveled Stations")
+
+![My helpful screenshot]({{ site.url }}downloads/Screen Shot 2016-01-16 at 5.24.51 PM.png)
 
 TEST
 
