@@ -29,11 +29,14 @@ Next we wanted to look at each station andt the proportion of travel by weekday.
 Surprisingly, we found that the distribution of travel per station was pretty even during the week. The only exception was Wall St, where there was less traffic on Fridays and Saturdays. 
 
 We wanted to encorporate the census data into our analysis.The ideal area to recruit for WTWY Gala would rank highly in the following categories:
+
 Female to Male Ratio 
-* Population employed in Professional & Scientific Industry
-* Females in Labor Force
-* Population Taking Public Transit to Work
-* Households with Income > $100,000
+
+
+  * Population employed in Professional & Scientific Industry
+  * Females in Labor Force
+  * Population Taking Public Transit to Work
+  * Households with Income > $100,000
 
 Top travelled stations were scored based on a weighted sum of ideal population parameters and average overall station entries.
 
