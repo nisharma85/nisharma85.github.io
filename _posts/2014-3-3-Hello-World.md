@@ -18,7 +18,8 @@ The [turnstile data](http://web.mta.info/developers/turnstile.html)  includes en
 
 Out first piece of analysis was to look at the average entries by day in April 2015 per station. 
 
-![alt text](/Users/shani16/Desktop/Screen Shot 2016-01-16 at 5.08.46 PM.png "Top 10 Most Traveled Stations")
+![alt text]({{ site.url }}downloads/Screen Shot 2016-01-16 at 5.08.46 PM.jpg ) "Top 10 Most Traveled Stations")
+
 
 We found that the top 5 stations were commuter stations and were also the stations with the most number of lines. 
 
@@ -45,7 +46,7 @@ The top stations to target are on the left side of the chart below with the top 
 
 ![My helpful screenshot]({{ site.url }}downloads/Screen Shot 2016-01-16 at 5.24.51 PM.png)
 
-TEST1
+TEST2
 
 
 
