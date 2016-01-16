@@ -14,7 +14,11 @@ Today marks the end of week 1 and it has been quit a week so far. I knew that my
 
 Our task was to help group WTWY in their efforts to optimize their street team in collecting emails , in hopes of raising awareness of their organization and eventually maximizing participation.
 
-The [turnstile data](http://web.mta.info/developers/turnstile.html)  includes entry and exit counts for each subway station, measured in four hour intervals at inconsistent times.
+The [turnstile data](http://web.mta.info/developers/turnstile.html)  includes entry and exit counts for each subway station, measured in four hour intervals at inconsistent times. Since our clients event was early summer, we decided to use data from April 2015 since it was close to the month of the event and would be the best time to spread the word about the event. We also decided to link our data to census data to include demographic information in our analysis. 
+
+Out first piece of analysis was to look at the average entries by day in April 2015 per station. 
+
+![alt text](/Users/shani16/Desktop/Screen Shot 2016-01-16 at 5.08.46 PM.png "Most Traveled Stations")
 
 
 
