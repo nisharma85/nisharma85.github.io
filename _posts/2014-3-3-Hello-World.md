@@ -35,6 +35,13 @@ Female to Male Ratio
 * Population Taking Public Transit to Work
 * Households with Income > $100,000
 
+Top travelled stations were scored based on a weighted sum of ideal population parameters and average overall station entries.
+
+The top stations to target are on the left side of the chart below with the top stations to target on the bottom left. 
+
+![alt text](/Users/shani16/Desktop/Screen Shot 2016-01-16 at 5.24.51 PM.png "Top 10 Most Traveled Stations")
+
+
 
 
 
