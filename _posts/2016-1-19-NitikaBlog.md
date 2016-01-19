@@ -15,7 +15,8 @@ The [turnstile data](http://web.mta.info/developers/turnstile.html)  includes en
 
 Out first piece of analysis was to look at the average entries by day in April 2015 per station. 
 
-<img src=‘/images/image1.jpg’/>
+![alt text](https://github.com/nisharma85/nisharma85.github.io/blob/master/images/image1.jpg?raw=true "Logo Title Text 1")
+
 
 
 We found that the top 5 stations were commuter stations and were also the stations with the most number of lines. 
