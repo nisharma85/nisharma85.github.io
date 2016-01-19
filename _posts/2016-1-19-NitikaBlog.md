@@ -23,7 +23,7 @@ We found that the top 5 stations were commuter stations and were also the statio
 
 Next we wanted to look at each station andt the proportion of travel by weekday. We wanted to see if certain stations had more traffic on certain days vs the others. 
 
-![alt text]https://github.com/nisharma85/nisharma85.github.io/blob/master/images/image3.png?raw=true"Logo Title Text 1")
+![alt text](https://github.com/nisharma85/nisharma85.github.io/blob/master/images/image3.png?raw=true"Logo Title Text 1")
 
 
 Surprisingly, we found that the distribution of travel per station was pretty even during the week. The only exception was Wall St, where there was less traffic on Fridays and Saturdays. 
