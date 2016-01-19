@@ -23,8 +23,7 @@ We found that the top 5 stations were commuter stations and were also the statio
 
 Next we wanted to look at each station andt the proportion of travel by weekday. We wanted to see if certain stations had more traffic on certain days vs the others. 
 
-![alt text]({{ site.url }}images/Screen Shot 2016-01-16 at 5.16.59 PM.png)
-
+![alt text](https://github.com/nisharma85/nisharma85.github.io/blob/master/images/image3.jpg?raw=true "Logo Title Text 1")
 
 
 Surprisingly, we found that the distribution of travel per station was pretty even during the week. The only exception was Wall St, where there was less traffic on Fridays and Saturdays. 
@@ -44,9 +43,9 @@ Top travelled stations were scored based on a weighted sum of ideal population p
 The top stations to target are on the left side of the chart below with the top stations to target on the bottom left. 
 
 
-![My helpful screenshot]({{ site.url }}images/Screen Shot 2016-01-16 at 5.24.51 PM.png)
+![alt text](https://github.com/nisharma85/nisharma85.github.io/blob/master/images/image2.jpg?raw=true "Logo Title Text 1")
 
-TEST2
+And that was out first project!!
 
 
 
