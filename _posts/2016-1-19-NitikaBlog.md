@@ -60,7 +60,14 @@ We start our fourth week tomorrow. I can’t believe its been four weeks. We wer
 
 We developed and presented to the class an individual project based on “movies data”. Everyone tried to answer a different question, from predicting success of movies based on tv series to understanding the key factors that determine the success of trilogies. My project was about predicting GDP for movies based on books. 
 
-![alt text](https://github.com/nisharma85/nisharma85.github.io/blob/master/images/luther_nitika.pdf?raw=true "Logo Title Text 1")
+![alt text](https://github.com/nisharma85/nisharma85.github.io/blob/master/images/pvalue.png?raw=true"Logo Title Text 1")
+
+This chart shows the features that were significant in my model. Budget and best selling authors were the most significant features. 
+
+
+![alt text](https://github.com/nisharma85/nisharma85.github.io/blob/master/images/train.png?raw=true"Logo Title Text 1")
+
+The learning curve shows that the testing score is increasing and the gap between the test score and train score is decreasing as the training examples increase. This means that my model did not over fit and adding more data to the model will improve my model. 
 
 
 
