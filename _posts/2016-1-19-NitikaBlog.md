@@ -1,3 +1,7 @@
+---
+layout: post
+title: My experience at Metis!
+---
 
 
 ###This is just a place for me to talk about my experience at Metis.
@@ -47,7 +51,16 @@ The top stations to target are on the left side of the chart below with the top 
 
 And that was out first project!!
 
+####Week 2
 
+We start our fourth week tomorrow. I can’t believe its been four weeks. We were introduced to BeautifulSoup and web scraping in the past few weeks. 
+
+##### Project Luther
+
+
+We developed and presented to the class an individual project based on “movies data”. Everyone tried to answer a different question, from predicting success of movies based on tv series to understanding the key factors that determine the success of trilogies. My project was about predicting GDP for movies based on books. 
+
+![alt text](https://github.com/nisharma85/nisharma85.github.io/blob/master/images/luther_nitika.pdf?raw=true "Logo Title Text 1")
 
 
 
